@@ -217,7 +217,7 @@ td, th{
 @media screen and (max-width: 480px){
    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video,.produtos{
     width: auto;
-    margin: 10px 10px;
+    margin: 15px 15px;
    }
    h1 {
     text-align: center;
